@@ -1,0 +1,15 @@
+{
+    "name": "shamim/calculator",
+    "description": "test package for calculation",
+    "autoload": {
+        "psr-4": {
+            "Shamim\\Calculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "shamim reza"
+        }
+    ],
+    "require": {}
+}
